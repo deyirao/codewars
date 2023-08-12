@@ -1,2 +1,2 @@
 # codewars
- A collection of solution for problems from codewars.com
+ A collection of solutions for problems from Codewars.
