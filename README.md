@@ -7,7 +7,7 @@ A collection of solutions for `Codewars` problems that are solved by myself and 
 * The solutions were accepted by the `Codewars` tests.
 * No tests were written.
 
-### Example: Solution for `Multiples of 3 or 5`
+### Example: Solution for "Multiples of 3 or 5"
 ```Apex
 public class MultiplesOfThreeOrFive {
   public int solution(int number) {
