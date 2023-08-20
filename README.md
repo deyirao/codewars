@@ -18,5 +18,3 @@ public class MultiplesOfThreeOrFive {
   }
 }
 ```
-
-~ author Deyi Rao
